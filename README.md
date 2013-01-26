@@ -1,6 +1,3 @@
-mkdir ~/Hello-World
-# Creates a directory for your project called "Hello-World" in your user directory
-
 20120205153620
 20120205153634
 20120205153638
@@ -180,16 +177,3 @@ mkdir ~/Hello-World
 20130124214102
 20130124224955
 20130124224959
-
-cd ~/Hello-World
-# Changes the current working directory to your newly created directory
-
-
-git init
-# Sets up the necessary Git files
-
-# Initialized empty Git repository in /Users/you/Hello-World/.git/
-
-touch README
-# Creates a file called "README" in your Hello-World directoryvisualization-report
-====================
